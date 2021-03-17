@@ -19,3 +19,10 @@ Sketch -> Include Library -> Manage Libraries… [ ESP32 BLE Arduino by Neil Kol
 กดปุ่ม Boot ค้างไว้ แล้วเสียบสาย USB 
 
 ในโปรแกรม Arduino กด upload รอข้อความ connect ขึ้น ค่อยปล่อยปุ่ม Boot รอจนครบ 100% 
+
+
+# การทดสอบ
+
+ติดตั้ง App BLE Scanner จะสแกนพบ Mac address ก่อน 
+
+จากนั้นกด RAW Data ตรง LEN 23 0x16 จะต่อด้วยเลข hwid ตรงกลางๆ 

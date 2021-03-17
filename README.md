@@ -12,13 +12,7 @@ Tools -> Boards -> Boards Manager [ Install ESP32 by espressif systems ]
 
 Sketch -> Include Library -> Manage Libraries… [ ESP32 BLE Arduino by Neil Kolban ]
 
-===============
 
-|   000000    |
-
-|   oooooo    |
-
-|             |
 
 [ o  usb  (x) ]
 

@@ -2,7 +2,7 @@
 
 Hardware : ESP32 WROOM
 
-Software : arduino 
+Software : arduino for windows (ใน ubuntu มีปัญหาเรื่อง python serial)
 
 Addon config : 
 
